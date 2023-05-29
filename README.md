@@ -20,4 +20,4 @@ This project is a personal dashboard that displays information fetched from vari
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/personal-dashboard.git
+git clone https://github.com/JavedHussain-06/personal-dashboard.git
