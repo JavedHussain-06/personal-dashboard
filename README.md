@@ -5,7 +5,7 @@ This project is a personal dashboard that displays information fetched from vari
 ## Features
 
 - Fetches data from multiple APIs to display relevant information.
-- Displays weather information, news headlines, and other personalized data.
+- Displays weather information, crypto currencies, and other personalized data.
 - Allows customization and personalization of the dashboard layout.
 - Provides a user-friendly interface for easy interaction and navigation.
 
